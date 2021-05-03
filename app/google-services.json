@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515853319025",
+    "project_id": "uga-print",
+    "storage_bucket": "uga-print.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515853319025:android:7e4275573c5da6c42094d0",
+        "android_client_info": {
+          "package_name": "com.example.ugaprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515853319025-1iej4p63465e5a0iig4hsfo2crmuvsrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClu7RToPFMzMzV8rrCUZmAAb8fChuzLuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515853319025-1iej4p63465e5a0iig4hsfo2crmuvsrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
